@@ -32,8 +32,7 @@ Este app foi desenvolvido para praticar **React**, **hooks** e **componentizaç�
   <img 
     src="https://i.postimg.cc/hth1QQZ8/Captura-de-tela-2025-10-18-211658.jpg" 
     alt="Cronômetro em React" 
-    width="75%" 
-    style="border-radius: 16px; box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);"
+    width="600px"
   >
 </p>
 
@@ -51,6 +50,8 @@ cd cronometro-em-react
 # Instale as dependências
 npm install
 
+# Rode o projeto
+npm run dev
 
 ---
 

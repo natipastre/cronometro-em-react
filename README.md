@@ -26,17 +26,7 @@ Este app foi desenvolvido para praticar **React**, **hooks** e **componentizaç�
 
 ---
 
-## 🖼️ Prévia do projeto
 
-<p align="center">
-  <img 
-    src="https://i.postimg.cc/hth1QQZ8/Captura-de-tela-2025-10-18-211658.jpg" 
-    alt="Cronômetro em React" 
-    width="600px"
-  >
-</p>
-
----
 
 ## 🛠️ Como rodar localmente
 
